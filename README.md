@@ -14,11 +14,11 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQzNm0zOTh1cmlvaTRzY2s5bzVnMTd2NXRlMGNncHJnY3FsNnd5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/88i7NElG87uXGpjpBr/giphy.gif"  />
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
-<h2 align="left">🛠 Language and tools</h2>
+<img align="right" height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQzNm0zOTh1cmlvaTRzY2s5bzVnMTd2NXRlMGNncHJnY3FsNnd5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/88i7NElG87uXGpjpBr/giphy.gif"  />
 
 ###
 
@@ -48,12 +48,6 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
 
 ###
