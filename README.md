@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abdelhafidh and I'm a Mobile developer 📱 , from Algeria</p>
+<p align="left">My name is Abdelhafidh and I'm a Mobile developer 📱 </p>
 
 ###
 
